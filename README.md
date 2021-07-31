@@ -1,4 +1,10 @@
-[Video Tutorial](https://youtu.be/l3NEC4McW3g)
+## This project contains code for making multi-step-forms using Formik, Yup and Material-ui
+
+## Visit [this link](https://github.com/hrs070/formik-material-ui-fieldArray) for the Field Array Form (dynamic fields).
+
+#### Made with the help of this [Tutorial Video](https://youtu.be/l3NEC4McW3g)
+
+
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
