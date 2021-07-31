@@ -1,4 +1,4 @@
-## This project contains code for making multi-step-forms using Formik, Yup and Material-ui
+## This project contains code for making multi-step-forms with validation using Formik, Yup and Material-ui
 
 ## Visit [this link](https://github.com/hrs070/formik-material-ui-fieldArray) for the Field Array Form (dynamic fields).
 
